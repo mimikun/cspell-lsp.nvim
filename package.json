@@ -3,7 +3,7 @@
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "@commitlint/types": "^19.5.0",
-    "cspell": "^8.17.3",
+    "cspell": "^9.0.0",
     "cspell-dict-yaju": "^0.0.3",
     "cz-conventional-changelog-ja": "^0.0.2",
     "husky": "^9.1.7",
